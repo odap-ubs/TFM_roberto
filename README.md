@@ -11,6 +11,6 @@ Estos son la mayoria de scripts utilizados para el analisis de muestras de RNAse
 7. Marcado de duplicados
 8. SplitNcigar
 9. Base Recalibration
-10. Haplotypecaller (primer variant calling)
-11. Mutect2 apareado (segundo variant calling con muestra normal apareada)
+10. Mutect2 apareado (segundo variant calling con muestra normal apareada)
+11. Haplotypecaller (primer variant calling)
 12. Mutect2 apareado (segundo variant calling sin muestra normal apareada)
